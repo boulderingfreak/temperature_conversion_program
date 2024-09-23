@@ -10,3 +10,5 @@ elif choice == 2:
     f = float(input("F: "))
     result = (f - 32) * 5/9
     print(f"{f} Farenheits is {round(result, 1)} Celsiuses.")
+else:
+    print("Type 1 or 2 you dumb")
